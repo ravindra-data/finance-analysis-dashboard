@@ -66,8 +66,6 @@ The analysis identified several data-quality issues in the source data:
 - Pending transaction monitoring
 - Business recommendations panel
 
-![Dashboard Screenshot](screenshots/dashboard-1.png)
-
 ### Key KPIs
 
 | KPI | Value |
